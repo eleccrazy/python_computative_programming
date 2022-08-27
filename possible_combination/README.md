@@ -1,5 +1,5 @@
 <h1>The Challenge </h1>
-<p>In office an employee can bring 1 pet or 2 pets at a time, if a person has n pets, how many distnict combinations the employee can bring the pets to work? Write an efficient function that returns the number of all possible distnict combinations the employee can bring the pets to work.</p>
+<p>In office, an employee can bring 1 pet or 2 pets at a time, if a person has n pets, how many distnict combinations the employee can bring the pets to work? Write an efficient function that returns the number of all possible distnict combinations the employee can bring the pets to work.</p>
 <h2>Example I</h2>
 <p>Input: n = 3 pets</p>
 <p>Output 3</P>
@@ -26,7 +26,7 @@
 
 <h1>You can run the program using:</h1>
 <p>python3 -m unittest discover</p>
-<p>After running it will give you the follwig results </p>
+<h3>After running it will give you the followig results </h3>
 <p>.................</p>
 <p>----------------------------------------------------------------------</p>
 <p>Ran 17 tests in 0.001s</p>
