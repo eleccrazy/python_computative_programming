@@ -23,13 +23,18 @@
 <p>This file contains the solution code for the challenge.</p>
 <h3>test_possible_combination.py</h3>
 <p>This file contains all possible test cases for the the ''possible_combination.py'' module.</p>
+<h3>alternative_solution.py</h3>
+<p>This file contains alternative solution for the problem using the concept of recursion.</p>
+<h3>test_alternative_solution.py</h3>
+<p>This file contains all possible test cases for the ''alternative_solution.py'' module.</p>
 
 <h1>You can run the program using:</h1>
 <p>python3 -m unittest discover</p>
 <h3>After running it will give you the followig results </h3>
 <p>.................</p>
 <p>----------------------------------------------------------------------</p>
-<p>Ran 17 tests in 0.001s</p>
+<p>Ran 34tests in 0.005s</p>
 
 <p>OK</p>
+<h4>I have applied 17 test cases for each modules</h4>
 <h3>You can also pass your own test inputs to the function and see the results.</h3>
