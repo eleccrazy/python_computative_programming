@@ -32,3 +32,4 @@
 <p>Ran 17 tests in 0.001s</p>
 
 <p>OK</p>
+<h3>You can also pass your own test inputs to the function and see the results.</h3>
