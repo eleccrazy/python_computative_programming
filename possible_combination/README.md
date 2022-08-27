@@ -33,7 +33,7 @@
 <h3>After running it will give you the followig results </h3>
 <p>.................</p>
 <p>----------------------------------------------------------------------</p>
-<p>Ran 34tests in 0.005s</p>
+<p>Ran 34 tests in 0.005s</p>
 
 <p>OK</p>
 <h4>I have applied 17 test cases for each modules</h4>
