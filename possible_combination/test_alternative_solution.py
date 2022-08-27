@@ -5,7 +5,7 @@ import unittest
 comb = __import__('alternative_solution').combination_two
 
 class TestCombination(unittest.TestCase):
-    """ This class provides all possible test cases for the combination function."""
+    """ This class provides all possible test cases for the combination_two function."""
 
     # Let's test the function for valid inputs
 
