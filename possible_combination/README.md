@@ -30,7 +30,7 @@
 
 <h1>You can run the program using:</h1>
 <p>python3 -m unittest discover</p>
-<h3>After running it will give you the followig results </h3>
+<h3>After running the program, it will give you the followig results </h3>
 <p>.................</p>
 <p>----------------------------------------------------------------------</p>
 <p>Ran 34 tests in 0.005s</p>
