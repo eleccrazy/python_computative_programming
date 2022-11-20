@@ -53,6 +53,10 @@ class TestCombination(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, "The Number of pets can't be negative"):
             result = comb(-345)
 
+    def test_negative3_input(self):
+        with self.assertRaisesRegex(ValueError, "The Number of pets can't be negative"):
+            result = comb(-9090)
+
     # Let's test for in appropriate arguments including no and extra arguments.
 
     def test_with_no_input(self):
